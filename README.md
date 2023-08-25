@@ -18,10 +18,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Messagin App <a name="about-project"></a>
+# 📖 Messaging App <a name="about-project"></a>
 
 
-**Messagin App** is a Full Stack project built with React JS and Node+ExpressJs on the backend.
+**Messaging App** is a Full Stack project built with React JS and Node+ExpressJs on the backend.
 
 ## 🛠 Built With <a name="built-with"></a>
 
