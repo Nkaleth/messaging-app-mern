@@ -1,9 +1,12 @@
 import './App.scss';
+import Sidebar from './components/Sidebar';
 
 function App() {
   return (
-    <div>
-      HELLO VITE AGAIN!
+    <div className="app">
+      <div className="app__body">
+        <Sidebar />
+      </div>
     </div>
   );
 }
