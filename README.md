@@ -66,7 +66,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Clone this repo
+- Clone this repo.
 - Go to the main branch.
 - Run npm run dev
 - Enjoy it. 😃
@@ -92,6 +92,7 @@ In order to run this project you need:
 
 - **Tailwind**
 - **Three JS**
+- ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
