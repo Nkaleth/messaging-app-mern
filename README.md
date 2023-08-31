@@ -21,7 +21,7 @@
 # 📖 Messaging App <a name="about-project"></a>
 
 
-**Messaging App** is a Full Stack project built with React JS and Node+ExpressJs on the backend.
+**Messaging App** is a React full-stack project built on the backend with Node+ExpressJs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,8 +66,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Clone this repo
-- Go to the dev branch.
+- Clone this repo.
+- Go to the main branch.
 - Run npm run dev
 - Enjoy it. 😃
 
@@ -92,6 +92,7 @@ In order to run this project you need:
 
 - **Tailwind**
 - **Three JS**
+- ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
