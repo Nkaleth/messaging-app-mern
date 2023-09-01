@@ -3,6 +3,7 @@ import {
   DonutLarge, Chat, MoreVert, SearchOutlined,
 } from '@mui/icons-material';
 import { Avatar, IconButton } from '@mui/material';
+import SidebarChat from './SidebarChat';
 
 function Sidebar() {
   return (
@@ -27,7 +28,11 @@ function Sidebar() {
           <input placeholder="Search or start new chat" type="text" />
         </div>
       </div>
-      <div className="sidebar__chats" />
+      <div className="sidebar__chats">
+        <SidebarChat />
+        <SidebarChat />
+        <SidebarChat />
+      </div>
     </div>
   );
 }
