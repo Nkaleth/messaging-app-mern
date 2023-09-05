@@ -92,7 +92,6 @@ In order to run this project you need:
 
 - **Tailwind**
 - **Three JS**
-- ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
